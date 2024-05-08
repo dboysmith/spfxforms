@@ -4,7 +4,7 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://parrylabs.sharepoint.us/sites/contractsite/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://xxx/sites/contractsite/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "8b38fd0b-2722-4001-acc0-5fddb5bc4c50",
         "PageType": 8,
@@ -15,7 +15,7 @@
       }
     },
     "formBoilerplate_NewForm": {
-      "pageUrl": "https://parrylabs.sharepoint.us/sites/contractsite/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://xxx/sites/contractsite/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "8b38fd0b-2722-4001-acc0-5fddb5bc4c50",
         "PageType": 8,
@@ -26,7 +26,7 @@
       }
     },
     "formBoilerplate_EditForm": {
-      "pageUrl": "https://parrylabs.sharepoint.us/sites/contractsite/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://xxx/sites/contractsite/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "8b38fd0b-2722-4001-acc0-5fddb5bc4c50",
         "PageType": 6,
@@ -38,7 +38,7 @@
       }
     },
     "formBoilerplate_ViewForm": {
-      "pageUrl": "https://parrylabs.sharepoint.us/sites/contractsite/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://xxx/sites/contractsite/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "8b38fd0b-2722-4001-acc0-5fddb5bc4c50",
         "PageType": 4,
