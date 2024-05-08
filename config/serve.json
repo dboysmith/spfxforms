@@ -1,0 +1,53 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://parrylabs.sharepoint.us/sites/contractsite/_layouts/15/SPListForm.aspx",
+      "formCustomizer": {
+        "componentId": "8b38fd0b-2722-4001-acc0-5fddb5bc4c50",
+        "PageType": 8,
+        "RootFolder": "/sites/contractsite/Lists/NDA",
+        "properties": {
+          "sampleText": "Value"
+        }
+      }
+    },
+    "formBoilerplate_NewForm": {
+      "pageUrl": "https://parrylabs.sharepoint.us/sites/contractsite/_layouts/15/SPListForm.aspx",
+      "formCustomizer": {
+        "componentId": "8b38fd0b-2722-4001-acc0-5fddb5bc4c50",
+        "PageType": 8,
+        "RootFolder": "/sites/contractsite/Lists/NDA",
+        "properties": {
+          "sampleText": "Value"
+        }
+      }
+    },
+    "formBoilerplate_EditForm": {
+      "pageUrl": "https://parrylabs.sharepoint.us/sites/contractsite/_layouts/15/SPListForm.aspx",
+      "formCustomizer": {
+        "componentId": "8b38fd0b-2722-4001-acc0-5fddb5bc4c50",
+        "PageType": 6,
+        "RootFolder": "/sites/contractsite/Lists/NDA",
+        "ID": 1,
+        "properties": {
+          "sampleText": "Value"
+        }
+      }
+    },
+    "formBoilerplate_ViewForm": {
+      "pageUrl": "https://parrylabs.sharepoint.us/sites/contractsite/_layouts/15/SPListForm.aspx",
+      "formCustomizer": {
+        "componentId": "8b38fd0b-2722-4001-acc0-5fddb5bc4c50",
+        "PageType": 4,
+        "RootFolder": "/sites/contractsite/Lists/NDA",
+        "ID": 1,
+        "properties": {
+          "sampleText": "Value"
+        }
+      }
+    }
+  }
+}
